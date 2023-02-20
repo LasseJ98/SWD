@@ -1,0 +1,15 @@
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.csproj.AssemblyReference.cache
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.AssemblyInfoInputs.cache
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.AssemblyInfo.cs
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.csproj.CoreCompileInputs.cache
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\bin\Debug\net7.0\Teletubbies.exe
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\bin\Debug\net7.0\Teletubbies.deps.json
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\bin\Debug\net7.0\Teletubbies.runtimeconfig.json
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\bin\Debug\net7.0\Teletubbies.dll
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\bin\Debug\net7.0\Teletubbies.pdb
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.dll
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\refint\Teletubbies.dll
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.pdb
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\Teletubbies.genruntimeconfig.cache
+C:\Users\lasse\OneDrive - Aarhus universitet\4. semester\Kode_4Sem\SWD\Week4\Teletubbies\obj\Debug\net7.0\ref\Teletubbies.dll
